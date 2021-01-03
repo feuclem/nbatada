@@ -1,0 +1,824 @@
+[
+  {
+    "nationality": "Canada",
+    "firstName": "Karim",
+    "lastName": "Mané",
+    "position": "G"
+  },
+  {
+    "nationality": "France",
+    "firstName": "Théo",
+    "lastName": "Maledon",
+    "position": "G"
+  },
+  {
+    "nationality": "Argentina",
+    "firstName": "Facundo",
+    "lastName": "Campazzo",
+    "position": "G"
+  },
+  {
+    "nationality": "Australia",
+    "firstName": "Josh",
+    "lastName": "Green",
+    "position": "G"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Mychal",
+    "lastName": "Mulder",
+    "position": "G"
+  },
+  {
+    "nationality": "France",
+    "firstName": "Killian",
+    "lastName": "Hayes",
+    "position": "G"
+  },
+  {
+    "nationality": "Israel",
+    "firstName": "Deni",
+    "lastName": "Avdija",
+    "position": "F"
+  },
+  {
+    "nationality": "Nigeria",
+    "firstName": "Precious",
+    "lastName": "Achiuwa",
+    "position": "F"
+  },
+  {
+    "nationality": "Nigeria",
+    "firstName": "Jordan",
+    "lastName": "Nwora",
+    "position": "F"
+  },
+  {
+    "nationality": "Nigeria",
+    "firstName": "Gabe",
+    "lastName": "Vincent",
+    "position": "F"
+  },
+  {
+    "nationality": "Serbia",
+    "firstName": "Aleksej",
+    "lastName": "Pokuševski",
+    "position": "F"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Kyle",
+    "lastName": "Alexander",
+    "position": "G"
+  },
+  {
+    "nationality": "Angola",
+    "firstName": "Bruno",
+    "lastName": "Fernando",
+    "position": "G/F"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Nickeil Alexander",
+    "lastName":  "Walker",
+    "position": "G"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "RJ",
+    "lastName": "Barrett",
+    "position": "G"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Iggy",
+    "lastName": "Brazdeikis",
+    "position": "F"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Oshae",
+    "lastName": "Brissett",
+    "position": "G"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Brandon",
+    "lastName": "Clarke",
+    "position": "G"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Luguentz",
+    "lastName": "Dort",
+    "position": "PF"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Mfiondu",
+    "lastName": "Kabengele",
+    "position": "PF"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Marial",
+    "lastName": "Shayok",
+    "position": "G"
+  },
+  {
+    "nationality": "Croatia",
+    "firstName": "Luka",
+    "lastName": "Šamanić",
+    "position": "PF"
+  },
+  {
+    "nationality": "France",
+    "firstName": "Sekou",
+    "lastName": "Doumbouya",
+    "position": "G"
+  },
+  {
+    "nationality": "France",
+    "firstName": "Jaylen",
+    "lastName": "Hoard",
+    "position": "C"
+  },
+  {
+    "nationality": "France",
+    "firstName": "Adam",
+    "lastName": "Mokoka",
+    "position": "G"
+  },
+  {
+    "nationality": "France",
+    "firstName": "Vincent",
+    "lastName": "Poirier",
+    "position": "C"
+  },
+  {
+    "nationality": "Gabon",
+    "firstName": "Chris",
+    "lastName": "Silva",
+    "position": "PF"
+  },
+  {
+    "nationality": "Georgia",
+    "firstName": "Goga",
+    "lastName": "Bitadze",
+    "position": "C"
+  },
+  {
+    "nationality": "Italy",
+    "firstName": "Nicolò",
+    "lastName": "Melli",
+    "position": "F"
+  },
+  {
+    "nationality": "Japan",
+    "firstName": "Rui",
+    "lastName": "Hachimura",
+    "position": "F"
+  },
+  {
+    "nationality": "Latvia",
+    "firstName": "Anžejs",
+    "lastName": "Pasečņiks",
+    "position": "C"
+  },
+  {
+    "nationality": "Lebanon",
+    "firstName": "Norvel",
+    "lastName": "Pelle",
+    "position": "PF"
+  },
+  {
+    "nationality": "Mexico",
+    "firstName": "Juan Toscano",
+    "lastName":  "Anderson",
+    "position": "F"
+  },
+  {
+    "nationality": "Montenegro",
+    "firstName": "Javonte",
+    "lastName": "Green",
+    "position": "G"
+  },
+  {
+    "nationality": "Puerto Rico",
+    "firstName": "Tremont",
+    "lastName": "Waters",
+    "position": "PG"
+  },
+  {
+    "nationality": "Senegal",
+    "firstName": "Tacko",
+    "lastName": "Fall",
+    "position": "C"
+  },
+  {
+    "nationality": "Serbia",
+    "firstName": "Alen",
+    "lastName": "Smailagić",
+    "position": "C"
+  },
+  {
+    "nationality": "Slovenia",
+    "firstName": "Vlatko",
+    "lastName": "Čančar",
+    "position": "F"
+  },
+  {
+    "nationality": "South Sudan",
+    "firstName": "Wenyen",
+    "lastName": "Gabriel",
+    "position": "F"
+  },
+  {
+    "nationality": "Sudan",
+    "firstName": "Bol",
+    "lastName": "Bol",
+    "position": "C"
+  },
+  {
+    "nationality": "U.S. Virgin Islands",
+    "firstName": "Nicolas",
+    "lastName": "Claxton",
+    "position": "F"
+  },
+  {
+    "nationality": "Australia",
+    "firstName": "Jonah",
+    "lastName": "Bolden",
+    "position": "F"
+  },
+  {
+    "nationality": "Australia",
+    "firstName": "Ryan",
+    "lastName": "Broekhoff",
+    "position": "G"
+  },
+  {
+    "nationality": "Bahamas",
+    "firstName": "Deandre",
+    "lastName": "Ayton",
+    "position": "C"
+  },
+  {
+    "nationality": "Bosnia and Herzegovina",
+    "firstName": "Džanan",
+    "lastName": "Musa",
+    "position": "F"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Shai Gilgeous",
+    "lastName":  "Alexander",
+    "position": "G"
+  },
+  {
+    "nationality": "France",
+    "firstName": "Élie",
+    "lastName": "Okobo",
+    "position": "G"
+  },
+  {
+    "nationality": "Germany",
+    "firstName": "Isaac",
+    "lastName": "Bonga",
+    "position": "G"
+  },
+  {
+    "nationality": "Germany",
+    "firstName": "Isaiah",
+    "lastName": "Hartenstein",
+    "position": "F"
+  },
+  {
+    "nationality": "Germany",
+    "firstName": "Moritz",
+    "lastName": "Wagner",
+    "position": "F/C"
+  },
+  {
+    "nationality": "Greece",
+    "firstName": "Kostas",
+    "lastName": "Antetokounmpo",
+    "position": "F"
+  },
+  {
+    "nationality": "Japan",
+    "firstName": "Yuta",
+    "lastName": "Watanabe",
+    "position": "F"
+  },
+  {
+    "nationality": "Latvia",
+    "firstName": "Rodions",
+    "lastName": "Kurucs",
+    "position": "F"
+  },
+  {
+    "nationality": "Nigeria",
+    "firstName": "Chimezie",
+    "lastName": "Metu",
+    "position": "F"
+  },
+  {
+    "nationality": "Nigeria",
+    "firstName": "Josh",
+    "lastName": "Okogie",
+    "position": "F"
+  },
+  {
+    "nationality": "Slovenia",
+    "firstName": "Luka",
+    "lastName": "Dončić",
+    "position": "G/F"
+  },
+  {
+    "nationality": "Ukraine",
+    "firstName": "Sviatoslav",
+    "lastName": "Mykhailiuk",
+    "position": "F"
+  },
+  {
+    "nationality": "Australia",
+    "firstName": "Ben",
+    "lastName": "Simmons",
+    "position": "F"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Khem",
+    "lastName": "Birch",
+    "position": "F"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Chris",
+    "lastName": "Boucher",
+    "position": "F/C"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Dillon",
+    "lastName": "Brooks",
+    "position": "G"
+  },
+  {
+    "nationality": "CanadaNaz ",
+    "firstName": "Mitrou",
+    "lastName":  "Long",
+    "position": "G"
+  },
+  {
+    "nationality": "Egypt",
+    "firstName": "Abdel",
+    "lastName": "Nader",
+    "position": "F/C"
+  },
+  {
+    "nationality": "Finland",
+    "firstName": "Lauri",
+    "lastName": "Markkanen",
+    "position": "C/F"
+  },
+  {
+    "nationality": "France",
+    "firstName": "Frank",
+    "lastName": "Ntilikina",
+    "position": "G"
+  },
+  {
+    "nationality": "Germany",
+    "firstName": "Maxi",
+    "lastName": "Kleber",
+    "position": "F"
+  },
+  {
+    "nationality": "Germany",
+    "firstName": "Daniel",
+    "lastName": "Theis",
+    "position": "C/F"
+  },
+  {
+    "nationality": "England",
+    "firstName": "OG",
+    "lastName": "Anunoby",
+    "position": "F"
+  },
+  {
+    "nationality": "Israel",
+    "firstName": "TJ",
+    "lastName": "Leaf",
+    "position": "F"
+  },
+  {
+    "nationality": "Italy",
+    "firstName": "Ryan",
+    "lastName": "Arcidiacono",
+    "position": "G"
+  },
+  {
+    "nationality": "Serbia",
+    "firstName": "Bogdan",
+    "lastName": "Bogdanović",
+    "position": "G"
+  },
+  {
+    "nationality": "Turkey",
+    "firstName": "Furkan",
+    "lastName": "Korkmaz",
+    "position": "G"
+  },
+  {
+    "nationality": "Turkey",
+    "firstName": "Cedi",
+    "lastName": "Osman",
+    "position": "F"
+  },
+  {
+    "nationality": "Greece",
+    "firstName": "Thanasis",
+    "lastName": "Antetokounmpo",
+    "position": "F"
+  },
+  {
+    "nationality": "Australia",
+    "firstName": "Thon",
+    "lastName": "Maker",
+    "position": "C/F"
+  },
+  {
+    "nationality": "Austria",
+    "firstName": "Jakob",
+    "lastName": "Pöltl",
+    "position": "C"
+  },
+  {
+    "nationality": "Bahamas",
+    "firstName": "Buddy",
+    "lastName": "Hield",
+    "position": "G"
+  },
+  {
+    "nationality": "Cameroon",
+    "firstName": "Joel",
+    "lastName": "Embiid",
+    "position": "C"
+  },
+  {
+    "nationality": "Cameroon",
+    "firstName": "Pascal",
+    "lastName": "Siakam",
+    "position": "F"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Jamal",
+    "lastName": "Murray",
+    "position": "G"
+  },
+  {
+    "nationality": "Croatia",
+    "firstName": "Dario",
+    "lastName": "Šarić",
+    "position": "F"
+  },
+  {
+    "nationality": "Croatia",
+    "firstName": "Ivica",
+    "lastName": "Zubac",
+    "position": "C"
+  },
+  {
+    "nationality": "Czech Republic",
+    "firstName": "Tomáš",
+    "lastName": "Satoranský",
+    "position": "F"
+  },
+  {
+    "nationality": "France",
+    "firstName": "Timothé",
+    "lastName":  "Luwawu Cabarrot",
+    "position": "G/F"
+  },
+  {
+    "nationality": "Haiti",
+    "firstName": "Skal",
+    "lastName": "Labissière",
+    "position": "C"
+  },
+  {
+    "nationality": "Latvia",
+    "firstName": "Dāvis",
+    "lastName": "Bertāns",
+    "position": "F"
+  },
+  {
+    "nationality": "Lithuania",
+    "firstName": "Domantas",
+    "lastName": "Sabonis",
+    "position": "C"
+  },
+  {
+    "nationality": "Mali",
+    "firstName": "Cheick",
+    "lastName": "Diallo",
+    "position": "F"
+  },
+  {
+    "nationality": "Spain",
+    "firstName": "Juan",
+    "lastName": "Hernangómez",
+    "position": "F"
+  },
+  {
+    "nationality": "Spain",
+    "firstName": "Willy",
+    "lastName": "Hernangómez",
+    "position": "C"
+  },
+  {
+    "nationality": "Senegal",
+    "firstName": "Georges",
+    "lastName": "Niang",
+    "position": "F"
+  },
+  {
+    "nationality": "Brazil",
+    "firstName": "Cristiano",
+    "lastName": "Felício",
+    "position": "C/F"
+  },
+  {
+    "nationality": "Brazil",
+    "firstName": "Raul",
+    "lastName": "Neto",
+    "position": "G"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Trey",
+    "lastName": "Lyles",
+    "position": "F"
+  },
+  {
+    "nationality": "Croatia",
+    "firstName": "Mario",
+    "lastName": "Hezonja",
+    "position": "G/F"
+  },
+  {
+    "nationality": "Democratic Republic of the Congo  ",
+    "firstName": "Emmanuel",
+    "lastName": "Mudiay",
+    "position": "F"
+  },
+  {
+    "nationality": "Dominican RepublicKarl",
+    "firstName": "Anthony",
+    "lastName": "Towns",
+    "position": "C"
+  },
+  {
+    "nationality": "Latvia",
+    "firstName": "Kristaps",
+    "lastName": "Porziņģis",
+    "position": "C/F"
+  },
+  {
+    "nationality": "Serbia",
+    "firstName": "Nemanja",
+    "lastName": "Bjelica",
+    "position": "F"
+  },
+  {
+    "nationality": "Serbia",
+    "firstName": "Nikola",
+    "lastName": "Jokić",
+    "position": "C"
+  },
+  {
+    "nationality": "Serbia",
+    "firstName": "Boban",
+    "lastName": "Marjanović",
+    "position": "C"
+  },
+  {
+    "nationality": "Australia",
+    "firstName": "Dante",
+    "lastName": "Exum",
+    "position": "G"
+  },
+  {
+    "nationality": "Australia",
+    "firstName": "Joe",
+    "lastName": "Ingles",
+    "position": "F"
+  },
+  {
+    "nationality": "Bosnia and Herzegovina",
+    "firstName": "Jusuf",
+    "lastName": "Nurkić",
+    "position": "F"
+  },
+  {
+    "nationality": "Brazil",
+    "firstName": "Bruno",
+    "lastName": "Caboclo",
+    "position": "F"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Dwight",
+    "lastName": "Powell",
+    "position": "F"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Andrew",
+    "lastName": "Wiggins",
+    "position": "G/F"
+  },
+  {
+    "nationality": "Croatia",
+    "firstName": "Bojan",
+    "lastName": "Bogdanović",
+    "position": "G/F"
+  },
+  {
+    "nationality": "Philippines",
+    "firstName": "Jordan",
+    "lastName": "Clarkson",
+    "position": "G"
+  },
+  {
+    "nationality": "Switzerland",
+    "firstName": "Clint",
+    "lastName": "Capela",
+    "position": "F"
+  },
+  {
+    "nationality": "Australia",
+    "firstName": "Aron",
+    "lastName": "Baynes",
+    "position": "C"
+  },
+  {
+    "nationality": "Australia",
+    "firstName": "Matthew",
+    "lastName": "Dellavedova",
+    "position": "G"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Kelly",
+    "lastName": "Olynyk",
+    "position": "C"
+  },
+  {
+    "nationality": "France",
+    "firstName": "Rudy",
+    "lastName": "Gobert",
+    "position": "C"
+  },
+  {
+    "nationality": "Germany",
+    "firstName": "Dennis",
+    "lastName": "Schröder",
+    "position": "G"
+  },
+  {
+    "nationality": "Greece",
+    "firstName": "Giannis",
+    "lastName": "Antetokounmpo",
+    "position": "F"
+  },
+  {
+    "nationality": "New Zealand",
+    "firstName": "Steven",
+    "lastName": "Adams",
+    "position": "C"
+  },
+  {
+    "nationality": "Senegal",
+    "firstName": "Gorgui",
+    "lastName": "Dieng",
+    "position": "C"
+  },
+  {
+    "nationality": "Ukraine",
+    "firstName": "Alex",
+    "lastName": "Len",
+    "position": "C"
+  },
+  {
+    "nationality": "France",
+    "firstName": "Evan",
+    "lastName": "Fournier",
+    "position": "G/F"
+  },
+  {
+    "nationality": "Lithuania",
+    "firstName": "Jonas",
+    "lastName": "Valančiūnas",
+    "position": "C"
+  },
+  {
+    "nationality": "Puerto Rico",
+    "firstName": "Moe",
+    "lastName": "Harkless",
+    "position": "F"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Cory",
+    "lastName": "Joseph",
+    "position": "G"
+  },
+  {
+    "nationality": "Canada",
+    "firstName": "Tristan",
+    "lastName": "Thompson",
+    "position": "F"
+  },
+  {
+    "nationality": "Democratic Republic of the Congo  ",
+    "firstName": "Bismack",
+    "lastName": "Biyombo",
+    "position": "F"
+  },
+  {
+    "nationality": "Montenegro",
+    "firstName": "SwitzerlandNikola",
+    "lastName": "Vučević",
+    "position": "C"
+  },
+  {
+    "nationality": "Spain",
+    "firstName": "Ricky",
+    "lastName": "Rubio",
+    "position": "G"
+  },
+  {
+    "nationality": "Turkey",
+    "firstName": "Enes",
+    "lastName": "Kanter",
+    "position": "F"
+  },
+  {
+    "nationality": "NigeriaAl",
+    "firstName": "Farouq",
+    "lastName": "Aminu",
+    "position": "F"
+  },
+  {
+    "nationality": "Spain",
+    "firstName": "Serge",
+    "lastName": "Ibaka",
+    "position": "F"
+  },
+  {
+    "nationality": "Australia",
+    "firstName": "Patty",
+    "lastName": "Mills",
+    "position": "G"
+  },
+  {
+    "nationality": "Cameroon",
+    "firstName": "Luc",
+    "lastName": "Mbah a Moute",
+    "position": "F"
+  },
+  {
+    "nationality": "France",
+    "firstName": "Nicolas",
+    "lastName": "Batum",
+    "position": "F"
+  },
+  {
+    "nationality": "Italy",
+    "firstName": "Danilo",
+    "lastName": "Gallinari",
+    "position": "F"
+  },
+  {
+    "nationality": "Slovenia",
+    "firstName": "Goran",
+    "lastName": "Dragić",
+    "position": "G"
+  },
+  {
+    "nationality": "Spain",
+    "firstName": "Marc",
+    "lastName": "Gasol",
+    "position": "C"
+  },
+  {
+    "nationality": "Spain",
+    "firstName": "Pau",
+    "lastName": "Gasol",
+    "position": "F"
+  }
+]
