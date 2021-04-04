@@ -3,5 +3,6 @@ package domain
 enum class Position {
     CENTER,
     GUARD,
-    FORWARD
+    FORWARD,
+    COACH
 }

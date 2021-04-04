@@ -6,5 +6,6 @@ enum class Availability {
     DISQUALIFIED,
     QUESTIONABLE,
     INJURED,
-    REGULAR_IN_DOUBT
+    REGULAR_IN_DOUBT,
+    NULL
 }

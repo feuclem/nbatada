@@ -13,5 +13,5 @@ data class DunkestPlayer(
     @JsonProperty("avg_score")
     val averageScore: Double,
     @JsonProperty("lineup_tag")
-    val lineupTag: String
+    val lineupTag: String?
 )
